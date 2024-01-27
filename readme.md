@@ -5,8 +5,6 @@
 
 ## 成果展示
 
-![image-20240122123742682](../../Jaxi-Jiang-Blog/source/images/readme/image-20240122123742682.png)
-
 ![image-20240122123742682.png](https://github.com/Milefer7/Jaxi-Jiang-Blog/blob/main/images/readme/image-20240122123742682.png?raw=true)
 
 # :arrow_forward:功能成果展示
